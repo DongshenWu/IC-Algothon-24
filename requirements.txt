@@ -1,0 +1,9 @@
+flask==3.0.0
+numpy
+pandas
+tensorflow
+scikit-learn
+requests
+cryptpandas
+matplotlib
+gunicorn
